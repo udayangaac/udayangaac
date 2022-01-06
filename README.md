@@ -1,1 +1,1 @@
-### Hi, I am chamith 👋
+### Hi, I am Chamith 👋
