@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Chamith Udayanga 👋
+
+🔭 I'm a distributed systems enthusiast who is enthusiastic about creating high-performance Golang services.
+
 
 <!--
 **udayangaac/udayangaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
