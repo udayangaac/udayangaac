@@ -1,6 +1,6 @@
 ### Hi, I'm Chamith Udayanga 👋
 
-🔭 I'm a distributed systems enthusiast who is enthusiastic about creating high-performance Golang services.
+🔭 I'm a distributed systems enthusiast who is interested about creating high-performance Golang services.
 
 
 <!--
