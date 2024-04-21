@@ -1,19 +1,18 @@
-### Hi, I'm Chamith Udayanga 👋
+## About Me
+Hi there! I'm Chamith Udayanga, a distributed systems enthusiast with a passion for creating high-performance services using Golang.
 
-🔭 I'm a distributed systems enthusiast who is interested about creating high-performance Golang services.
+## Interests
+- Distributed systems
+- Golang
+- High-performance computing
+- Experimenting with advanced algorithms and AI
+- Delving into programmable matters
 
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=udayangaac)
-**udayangaac/udayangaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
+At the moment, I'm diving deep into Golang and exploring ways to optimize performance in distributed systems.
 
-Here are some ideas to get you started:
+## Get in Touch
+Feel free to reach out to me via [email](mailto:udayangaac@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/udayangaac).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+I enjoy experimenting with new technologies and finding creative solutions to complex problems.
