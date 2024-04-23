@@ -8,9 +8,6 @@ Hi there! I'm Chamith Udayanga, a distributed systems enthusiast with a passion 
 - Experimenting with advanced algorithms and AI
 - Delving into programmable matters
 
-## Current Focus
-At the moment, I'm diving deep into Golang and exploring ways to optimize performance in distributed systems.
-
 ## Get in Touch
 Feel free to reach out to me via [email](mailto:udayangaac@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/udayangaac).
 
