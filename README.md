@@ -1,12 +1,6 @@
-## About Me
-Hi there! I'm Chamith Udayanga, a distributed systems enthusiast with a passion for creating high-performance services using Golang.
+# Hi there! I'm Chamith Udayanga 👋
 
-## Interests
-- Distributed systems
-- Golang
-- High-performance computing
-- Experimenting with advanced algorithms and AI
-- Delving into programmable matters
+I'm a distributed systems enthusiast with a passion for creating high-performance services using Golang. I love diving into the intricacies of distributed systems, pushing the boundaries of performance, and experimenting with advanced algorithms and AI.
 
 ## Get in Touch
 Feel free to reach out to me via [email](mailto:udayangaac@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/udayangaac).
