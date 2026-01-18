@@ -32,9 +32,12 @@ Tech Lead @[Creo360](https://creo360.com/) | Senior Software Engineer @[Thermeon
 </p>
 
 
-<a> <img align="right" src="https://komarev.com/ghpvc/?username=udayangaac&label=Profile%20views&color=0e75b6&style=flat" alt="udayangaac" /></a>
+<!-- <a> <img align="right" src="https://komarev.com/ghpvc/?username=udayangaac&label=Profile%20views&color=0e75b6&style=flat" alt="udayangaac" /></a> -->
 
 ---
 
 ### 📬 Let's Connect
-Feel free to reach out to me via [email](mailto:udayangaac@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/udayangaac).
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udayangaac@gmail.com)](mailto:udayangaac@gmail.com)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/udayangaac/)](https://linkedin.com/in/udayangaac)
+
