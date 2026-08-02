@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Chamith
 
-Tech Lead @[Creo360](https://creo360.com/) | Senior Software Engineer @[Thermeon](https://thermeon.com/) | Cloud-native & distributed systems engineer focused on high-performance services
-
 ---
 ### 🛠️ Tech I Use
 
