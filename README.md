@@ -30,5 +30,5 @@
 </p>
 
 
-<!-- <a> <img align="right" src="https://komarev.com/ghpvc/?username=udayangaac&label=Profile%20views&color=0e75b6&style=flat" alt="udayangaac" /></a> -->
+<a> <img align="right" src="https://komarev.com/ghpvc/?username=udayangaac&label=Profile%20views&color=0e75b6&style=flat" alt="udayangaac" /></a>
 
